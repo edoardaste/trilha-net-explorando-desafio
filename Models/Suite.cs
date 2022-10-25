@@ -1,6 +1,6 @@
 namespace DesafioProjetoHospedagem.Models
 {
-    public class Suite
+     public class Suite
     {
         public Suite() { }
 
